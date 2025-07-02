@@ -1,10 +1,28 @@
+
 body{
-  background-color:lightpink;
+ background-color:lightpink (231, 217, 237);
+ text-align: center;
 }
-h1{
-  fontcstyle:italic;
-  color:hotpink;
+h1 {
+    font-style: italic;
+    color:mistyrose (214, 59, 150);
+    font-size: larger;
 }
-.imagem{
-  width: 60%
+h2 {
+    color:azure (14, 229, 157);
+    font-weight:200;
+}
+
+.imagem {
+    width: 50%;
+}
+.imagem2 {
+ width: 40%;
+}
+.lista {
+    text-align: left;
+    color:lightblue (137, 43, 226, 0.598);
+}
+.pizza {
+    color:steelblue;
 }
